@@ -1,7 +1,5 @@
 # MBRL for closed-loop VNS in hypertensive HFpEF
 
-DreamerV3 world model + actor + critic, trained offline on plant episodes,
-following the DropletRunner pipeline.
 
 ## Correspondence with DropletRunner
 
